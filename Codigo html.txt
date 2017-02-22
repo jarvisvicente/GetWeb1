@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 
+<title>Index</title>
+</head>
+
+<body>
+<div id="base">
+  
+  <div id="Cabecera"><strong>Grupo de Estudios de las Tecnologia Web</strong></div>
+  <div id="menu">
+    <table width="200" border="0">
+      <tr>
+        <td>*Inicio</td>
+      </tr>
+      <tr>
+        <td>*Nosotros</td>
+      </tr>
+      <tr>
+        <td>*Contactos</td>
+      </tr>
+    </table>
+  </div>
+  <div class="cuerpo">
+    <table width="495" height="298" border="0">
+      <tr>
+        <td><p><strong>HTML5</strong></p>
+        <p><img src="IMAGENES/HTML5.png" width="240" height="240" /></p>
+        <p>Contenido......</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>CSS3</strong></p>
+         
+        <p><img src="IMAGENES/css-beginners-tutorial.jpg" width="240" height="240" /></p>
+        <p>Contenido.....</p>
+        </td>
+      </tr>
+      <tr>
+        <td><p><strong>JavaScript</strong></p>
+          
+          <p><img src="IMAGENES/javascript_logo.png" width="240" height="240" /></p>
+          <p>Contenido....</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div id="pies">Todos los derechos reservado 2017 by Get Web</div>
+  <p>&nbsp;</p>
+</div>
+</body>
+</html>
